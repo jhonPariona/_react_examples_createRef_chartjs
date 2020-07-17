@@ -1,11 +1,11 @@
-<h1 align="center">⚛️ Title</h1>
+<h1 align="center">⚛️ Chart.js with createRef</h1>
 <p align="center">
-Description
+Example of integrating an external library with react using React.createRef 
 </p>
 
-[📖 Documentación](https://es.reactjs.org/docs/) |
+[📖 Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html) | [📖 CreateRef](https://github.com/jhonPariona/_react-refs#create-ref)
 
 <p align="center">
-<img src="https://media0.giphy.com/media/veAy5UOhBdS3C/giphy.gif" alt="ref img"/>
+<img src="https://user-images.githubusercontent.com/62570198/87742771-0b3c6b00-c7ad-11ea-9203-4ccc1289dc0c.gif" alt="chart.js example"/>
 </p>
 
