@@ -9,3 +9,5 @@ Example of integrating an external library with react using React.createRef
 <img src="https://user-images.githubusercontent.com/62570198/87742771-0b3c6b00-c7ad-11ea-9203-4ccc1289dc0c.gif" alt="chart.js example"/>
 </p>
 
+[DEMO](https://react-examples-create-ref-chartjs-jhonpariona.vercel.app/)
+
